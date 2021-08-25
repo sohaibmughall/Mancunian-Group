@@ -462,10 +462,10 @@ header .navbar {
 
 .product-item .down-content h6 {
     position: absolute;
-    top: 30px;
+    top: 330px;
     right: 30px;
-    font-size: 18px;
-    color: #121212;
+    font-size: 25px;
+    color: #1e1e1e;
 }
 
 .product-item .down-content p {
