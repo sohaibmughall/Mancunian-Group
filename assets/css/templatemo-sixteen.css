@@ -470,7 +470,7 @@ header .navbar {
     position: absolute;
     top: 260px;
     right: 30px;
-    font-size: 25px;
+    font-size: 14px;
     color: #1e1e1e;
 }
 
@@ -485,6 +485,8 @@ header .navbar {
 .product-item .down-content ul li i {
     color: #f33f3f;
     font-size: 14px;
+    position: relative;
+    top: 30px;
 }
 
 .product-item .down-content span {
